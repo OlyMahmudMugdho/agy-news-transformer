@@ -365,7 +365,6 @@ static void model_init()
 
     resolver.AddGather();
 
-    resolver.AddMatMul();
 
     resolver.AddMean();
 
