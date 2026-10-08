@@ -33,8 +33,8 @@ extern unsigned int agnews_transformer_fp32_tflite_len;
 // Configuration
 // ============================================================
 
-#define WIFI_SSID       "YOUR_WIFI"
-#define WIFI_PASSWORD   "YOUR_PASSWORD"
+#define WIFI_SSID       "RANDOM"
+#define WIFI_PASSWORD   "mugdhodzs38"
 
 #define MAX_LEN         64
 
